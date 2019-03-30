@@ -1,7 +1,7 @@
 {
   "name": "flipper",
-  "version": "0.0.1",
-  "versionDate": "2019-3-25",
+  "version": "0.0.2",
+  "versionDate": "2019-3-30",
   "description": "Mobile development tool",
   "productName": "Flutter Debugger",
   "author": "JianyingLi<lijy91@foxmail.com>",
