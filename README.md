@@ -8,7 +8,7 @@ English | [简体中文](./README.zh_CN.md)
 
 ## Introduction
 
-*Flutter Debugger is a standalone app for debugging Flutter apps, Based on [Flipper](https://github.com/facebook/flipper) (Extensible mobile app debugger) and provide more functionally.*
+*A standalone app for debugging Flutter apps, Based on [Flipper](https://github.com/facebook/flipper) (Extensible mobile app debugger) and provide more functionally.*
 
 Browse the docs on [flutter-debugger.blankapp.org](https://flutter-debugger.blankapp.org/).
 

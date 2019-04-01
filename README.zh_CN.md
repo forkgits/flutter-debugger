@@ -8,7 +8,7 @@
 
 ## 简介
 
-*Flutter Debugger 是一个用于调试 [Flutter](https://flutter.dev) 应用的独立应用程序，基于 [Flipper](https://github.com/facebook/flipper)（可扩展的移动应用调试器）并提供更多功能。*
+*一个用于调试 [Flutter](https://flutter.dev) 应用的独立应用程序，基于 [Flipper](https://github.com/facebook/flipper)（可扩展的移动应用调试器）并提供更多功能。*
 
 浏览 [flutter-debugger.blankapp.org](http://flutter-debugger.blankapp.org/) 上的文档。
 
