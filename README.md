@@ -1,4 +1,4 @@
-# Flutter Debugger (Based on Flipper)
+# Flutter™ Debugger (Based on Flipper)
 
 ![](static/icon.png)
 
@@ -27,7 +27,7 @@ To install the app, you can download a prebuilt binary from the [release page](h
 
 ### Integrations
 
-After installing the Flutter Debugger, integrate [flutter_flipperkit](https://github.com/blankapp/flutter_flipperkit) into your project to debug your application.
+After installing the Flutter™ Debugger, integrate [flutter_flipperkit](https://github.com/blankapp/flutter_flipperkit) into your project to debug your application.
 
 ## Related Links
 

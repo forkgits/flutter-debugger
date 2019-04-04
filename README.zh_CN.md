@@ -1,4 +1,4 @@
-# Flutter Debugger (Based on Flipper)
+# Flutter™ Debugger (Based on Flipper)
 
 ![](static/icon.png)
 
@@ -27,7 +27,7 @@
 
 ### 集成
 
-在安装好 Flutter Debugger 后，集成 [flutter_flipperkit](https://github.com/blankapp/flutter_flipperkit) 到你的项目后即可通过它来调试你的应用了。
+在安装好 Flutter™ Debugger 后，集成 [flutter_flipperkit](https://github.com/blankapp/flutter_flipperkit) 到你的项目后即可通过它来调试你的应用了。
 
 ## 相关链接
 
